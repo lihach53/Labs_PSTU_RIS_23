@@ -1,0 +1,7 @@
+﻿  Array.cpp
+  Source.cpp
+  Создание кода...
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Array<int>::Array<int>(int)" (??0?$Array@H@@QEAA@H@Z) в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Array<int>::~Array<int>(void)" (??1?$Array@H@@QEAA@XZ) в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Array<int> const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBV?$Array@H@@@Z) в функции main.
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_7\x64\Debug\Class_Lab_7.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
