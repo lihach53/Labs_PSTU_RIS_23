@@ -1,0 +1,23 @@
+﻿  Book.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,17): error C3646: Get_name: неизвестный спецификатор переопределения
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,26): error C2059: синтаксическая ошибка: )
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,31): error C2238: непредвиденные лексемы перед ";"
+  Dialog.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,17): error C3646: Get_name: неизвестный спецификатор переопределения
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,26): error C2059: синтаксическая ошибка: )
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,31): error C2238: непредвиденные лексемы перед ";"
+  List.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,17): error C3646: Get_name: неизвестный спецификатор переопределения
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,26): error C2059: синтаксическая ошибка: )
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,31): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\List.cpp(93,6): error C2039: "Get_name": не является членом "Object".
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(3,7): message : см. объявление "Object"
+  Print.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,17): error C3646: Get_name: неизвестный спецификатор переопределения
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,26): error C2059: синтаксическая ошибка: )
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,31): error C2238: непредвиденные лексемы перед ";"
+  Source.cpp
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,17): error C3646: Get_name: неизвестный спецификатор переопределения
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,26): error C2059: синтаксическая ошибка: )
+C:\Users\Asokat\Desktop\ucheba\infa\Class_Lab_8\Class_Lab_8\Object.h(9,31): error C2238: непредвиденные лексемы перед ";"
+  Создание кода...
