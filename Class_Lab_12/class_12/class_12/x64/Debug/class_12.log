@@ -1,0 +1,7 @@
+﻿  class_12.3.cpp
+C:\Users\987\source\repos\class_12\class_12\class_12.3.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\987\source\repos\class_12\class_12\Container.h(43,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\987\source\repos\class_12\class_12\Container.h(36,1): message : во время компиляции функции-члена класс шаблон "Container<Money>::Container(int)"
+C:\Users\987\source\repos\class_12\class_12\class_12.3.cpp(11,20): message : выполняется компиляция ссылки на экземпляр шаблон функции "Container<Money>::Container(int)"
+C:\Users\987\source\repos\class_12\class_12\class_12.3.cpp(11,23): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Money>"
+  class_12.vcxproj -> C:\Users\987\source\repos\class_12\x64\Debug\class_12.exe
