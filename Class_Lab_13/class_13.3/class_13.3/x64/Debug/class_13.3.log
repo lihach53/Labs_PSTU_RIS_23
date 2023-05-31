@@ -1,0 +1,38 @@
+﻿  class_13.3.cpp
+C:\Users\987\source\repos\class_13.3\class_13.3\class_13.3.cpp(64,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\987\source\repos\class_13.3\class_13.3\class_13.3.cpp(75,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\numeric(34,9): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "Money" (или приемлемое преобразование отсутствует)
+C:\Users\987\source\repos\class_13.3\class_13.3\Money.h(11,9): message : может быть "Money &Money::operator =(Money &)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\numeric(34,9): message : при попытке сопоставить список аргументов "(_Ty, Money)"
+          with
+          [
+              _Ty=Money
+          ]
+C:\Users\987\source\repos\class_13.3\class_13.3\class_13.3.cpp(63,4): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,Money,sred::<lambda_1>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=Money,
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,
+              _Fn=sred::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\algorithm(3074,9): error C2678: бинарный "=": не найден оператор, принимающий левый операнд типа "const Money" (или приемлемое преобразование отсутствует)
+C:\Users\987\source\repos\class_13.3\class_13.3\Money.h(11,9): message : может быть "Money &Money::operator =(Money &)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\algorithm(3074,9): message : при попытке сопоставить список аргументов "(const Money, Money)"
+C:\Users\987\source\repos\class_13.3\class_13.3\class_13.3.cpp(71,23): message : выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt std::transform<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,add_to_all::<lambda_1>>(const _InIt,const _InIt,_OutIt,_Fn)"
+          with
+          [
+              _OutIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,
+              _Fn=add_to_all::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(2075,17): error C2678: бинарный "=": не найден оператор, принимающий левый операнд типа "const Money" (или приемлемое преобразование отсутствует)
+C:\Users\987\source\repos\class_13.3\class_13.3\Money.h(11,9): message : может быть "Money &Money::operator =(Money &)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(2075,17): message : при попытке сопоставить список аргументов "(const Money, const Money)"
+C:\Users\987\source\repos\class_13.3\class_13.3\class_13.3.cpp(91,54): message : выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::remove_if<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,Equal_s>(_FwdIt,const _FwdIt,_Pr)"
+          with
+          [
+              _FwdIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Money>>>,
+              _Pr=Equal_s
+          ]
+  Money.cpp
+  Создание кода...

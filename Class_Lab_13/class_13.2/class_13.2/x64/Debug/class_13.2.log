@@ -1,0 +1,5 @@
+﻿  class_13.2.cpp
+C:\Users\987\source\repos\class_13.2\class_13.2\class_13.2.cpp(72,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\987\source\repos\class_13.2\class_13.2\class_13.2.cpp(83,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\987\source\repos\class_13.2\class_13.2\class_13.2.cpp(85,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class_13.2.vcxproj -> C:\Users\987\source\repos\class_13.2\x64\Debug\class_13.2.exe

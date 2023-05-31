@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (class_13.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  class_13.1.cpp
+C:\Users\987\source\repos\class_13\class_13\class_13.1.cpp(82,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\987\source\repos\class_13\class_13\class_13.1.cpp(87,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\987\source\repos\class_13\class_13\class_13.1.cpp(89,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class_13.vcxproj -> C:\Users\987\source\repos\class_13\x64\Debug\class_13.1.exe
