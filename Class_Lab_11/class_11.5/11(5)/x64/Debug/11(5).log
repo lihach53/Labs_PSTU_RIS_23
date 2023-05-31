@@ -1,0 +1,11 @@
+﻿  11(5).cpp
+C:\Users\987\source\repos\11(5)\11(5)\11(5).cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\987\source\repos\11(5)\11(5)\Vector.h(60,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\987\source\repos\11(5)\11(5)\Vector.h(53,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\987\source\repos\11(5)\11(5)\11(5).cpp(11,18): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Money>::Vector(int)"
+C:\Users\987\source\repos\11(5)\11(5)\11(5).cpp(11,20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+C:\Users\987\source\repos\11(5)\11(5)\Vector.h(132,1): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\987\source\repos\11(5)\11(5)\Vector.h(123,1): message : во время компиляции функции-члена класс шаблон "void Vector<Money>::Sred(void)"
+C:\Users\987\source\repos\11(5)\11(5)\11(5).cpp(24,11): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Money>::Sred(void)"
+C:\Users\987\source\repos\11(5)\11(5)\Vector.h(133,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  11(5).vcxproj -> C:\Users\987\source\repos\11(5)\x64\Debug\11(5).exe

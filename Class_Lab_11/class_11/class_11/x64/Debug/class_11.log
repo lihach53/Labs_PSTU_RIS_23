@@ -1,0 +1,3 @@
+﻿  zadacha4.cpp
+C:\Users\987\source\repos\class_11\class_11\zadacha4.cpp(122,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  class_11.vcxproj -> C:\Users\987\source\repos\class_11\x64\Debug\class_11.exe
