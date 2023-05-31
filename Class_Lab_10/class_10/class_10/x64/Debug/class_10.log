@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  class_10.cpp
+C:\Users\987\source\repos\class_10\class_10\class_10.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\987\source\repos\class_10\class_10\class_10.cpp(12,17): warning C4101: cnt: неиспользованная локальная переменная
+C:\Users\987\source\repos\class_10\class_10\class_10.cpp(12,12): warning C4101: num: неиспользованная локальная переменная
+  Создание кода...
+  class_10.vcxproj -> C:\Users\987\source\repos\class_10\x64\Debug\class_10.exe
