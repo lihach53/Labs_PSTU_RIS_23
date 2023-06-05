@@ -101,7 +101,7 @@ bool Queue::isFull()
     return (size() == capacity);
 }
 
-struct Stack
+class Stack
 {
 private:
     int* arr;
