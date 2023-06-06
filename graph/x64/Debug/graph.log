@@ -1,0 +1,17 @@
+﻿  graph.cpp
+  Source.cpp
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(34,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(122,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(137,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(175,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(198,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(356,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(357,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(361,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(362,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(364,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(364,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(376,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\Source.cpp(377,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  graph.vcxproj -> C:\Users\Asokat\Desktop\Tarasov_Sergey_LABS_PSTU_RIS_22_1b-main\graph\x64\Debug\graph.exe
