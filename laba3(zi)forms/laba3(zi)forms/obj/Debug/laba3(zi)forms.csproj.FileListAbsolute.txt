@@ -1,0 +1,11 @@
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\bin\Debug\laba3(zi)forms.exe.config
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\bin\Debug\laba3(zi)forms.exe
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\bin\Debug\laba3(zi)forms.pdb
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.csproj.AssemblyReference.cache
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3_zi_forms.Form1.resources
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3_zi_forms.Properties.Resources.resources
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.csproj.GenerateResource.cache
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.csproj.CoreCompileInputs.cache
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.exe
+C:\Users\lihac\source\repos\laba3(zi)forms\laba3(zi)forms\obj\Debug\laba3(zi)forms.pdb
